@@ -14,6 +14,10 @@
 ![Luque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luque4503&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true)
 <br>
 <br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Luque4503)](https://solved.ac/Luque4503)
+<br>
+<br>
 <div align=center><h1>📢INTRODUCE📢</h1></div>
 <br>
 😎아직 배울게 많은 대학원생 개발자입니다.
