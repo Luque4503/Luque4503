@@ -4,7 +4,7 @@
 <div align=center><h1>📢INTRODUCE📢</h1></div>
 <br>
 📃My name : 이선우,  LEE SUNWOO
-<br
+<br>
 <br>
 ✒Major : SoC (Master's student)
 <br>
