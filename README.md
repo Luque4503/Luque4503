@@ -3,11 +3,11 @@
 
 <div align=center><h1>📢INTRODUCE📢</h1></div>
 
-My name : 이선우,  LEE SUNWOO
+📃My name : 이선우,  LEE SUNWOO
 <br>
-Major : SoC (Master's student)
+✒Major : SoC (Master's student)
 <br>
-Interest : AI Accelerator (RTL Design)
+📌Interest : AI Accelerator (RTL Design)
  
 <div align=center><h1>🌌DEV's LOG🌌</h1></div>
 
