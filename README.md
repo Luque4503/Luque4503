@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=Hello%20&animation=&fontColor=000000&fontSize=40&fontAllign=70&fontAlignY=40&rotate=12" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=Hello%20&animation=&fontColor=000000&fontSize=40&fontAllign=50&fontAlignY=40&rotate=12" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
