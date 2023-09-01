@@ -16,10 +16,10 @@
 <br>
 <div align=center><h1>📢INTRODUCE📢</h1></div>
 <br>
-😎아직 배울게 많은 석사과정 개발자입니다.
+😎아직 배울게 많은 대학원생 개발자입니다.
 <br>
 <br>
-✒전공은 SoC 디지털 회로설계이고 관심분야는 AI Accelerator 입니다.
+✒디지털 회로설계를 배우고있고, 관심분야는 AI Accelerator 입니다.
 <br>
 <br>
 📌나만의 일을 찾기위해 열심히 노력중입니다.
