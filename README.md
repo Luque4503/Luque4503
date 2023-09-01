@@ -38,3 +38,9 @@
 <br>
 <div align=center><h1>🔧USE TOOLS🔧</h1></div>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black">
+<br>
+<div align=center><h1>📫CONTACT📫</h1></div>
+<br>
+<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black">
+
