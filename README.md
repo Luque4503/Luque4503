@@ -42,5 +42,6 @@
 <br>
 <div align=center><h1>📫CONTACT📫</h1></div>
 <br>
-<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black">
+<a href="mailto:dltjsdn2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dltjsdn2005@gmail.com"/></a>
+
 
