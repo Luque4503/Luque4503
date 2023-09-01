@@ -33,4 +33,4 @@
  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <br>
 <div align=center><h1>🔧USE TOOLS🔧</h1></div>
-<img src="https://img.shields.io/badge/VS+code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
+<img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
