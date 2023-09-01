@@ -2,10 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Luque's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50" />
 
 <div align=center><h1>📢INTRODUCE📢</h1></div>
-
+<br>
 📃My name : 이선우,  LEE SUNWOO
+<br
 <br>
 ✒Major : SoC (Master's student)
+<br>
 <br>
 📌Interest : AI Accelerator (RTL Design)
  
