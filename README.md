@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luque4503&layout=donut-vertical&theme=gradient)
 <br>
 <br>
-![Luque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luque4503&include_all_commits=true&theme=aura&hide_border=true&count_private=true)
+![Luque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luque4503&include_all_commits=true&theme=gradient&hide_border=true&count_private=true)
 
 
 <div align=center><h1>📕TECH STACKS📕</h1></div>
