@@ -12,4 +12,4 @@
 ## ⚙TECH STACK⚙ ##
 
 
-<img src="https://img.shields.io/badge/c+language-#A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c+language-#A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
