@@ -5,7 +5,7 @@
  
 <div align=center><h1>🌌DEV's LOG🌌</h1></div>
 
-<br>
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuque4503%2FLuque4503&count_bg=%230CA678&title_bg=%23515353&icon=snapcraft.svg&icon_color=%23F9F6F6&title=welcome+Luque&edge_flat=false)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luque4503&layout=donut-vertical&theme=tokyonight)
