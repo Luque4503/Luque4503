@@ -11,4 +11,4 @@
 
 ## ⚙TECH STACK⚙ ##
 
-<img src="https://img.shields.io/badge/C?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/c?style=for-the-badge&logo=c&logoColor=#A8B9CC">
